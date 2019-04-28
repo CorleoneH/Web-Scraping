@@ -8,9 +8,9 @@ Share some Web-Scraping program written in Python during the learning process. P
 ---
 
 ## douban
-Get the details of the top250 books in <a href="https://book.douban.com/top250" target="_blank">豆瓣图书</a>
+Get the details of the top250 books from <a href="https://book.douban.com/top250" target="_blank">豆瓣图书</a>, and save results to doubanbook.csv.
 
 ---
 
 ## 最好大学排名
-Get the 2019 Chinese university ranking from <a href="http://www.zuihaodaxue.com/zuihaodaxuepaiming2019.html" target="_blank">最好大学网</a>
+Get the 2019 Chinese university ranking from <a href="http://www.zuihaodaxue.com/zuihaodaxuepaiming2019.html" target="_blank">最好大学网</a>, and save results to zuihaodaxue.csv.
